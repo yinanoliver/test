@@ -5,7 +5,7 @@
 
 body {
   background-color: #f7e1f4 !important;
-  color: #363636 !important;
+  color: #2e30c1 !important;
   font: -apple-system-short-body;
   line-height: 1.4 !important;
   text-align: left !important;
@@ -38,7 +38,7 @@ div#dox_entry_content a,
 div#dox_entry_content a:link,
 div#dox_entry_content a:active,
 div#dox_entry_content a:visited {
-  color: #363636 !important;
+  color: #2e30c1 !important;
   text-decoration: none !important;
   border-bottom: 1px dotted #CCC !important;
 }
