@@ -1,0 +1,66 @@
+/*
+ * = require 'yui-cssreset-reset-3.3.0.css'
+ * = require 'yui-cssbase-base-3.3.0.css'
+ */
+
+body {
+  background-color: #f7e1f4 !important;
+  color: #363636 !important;
+  font: -apple-system-short-body;
+  line-height: 1.4 !important;
+  text-align: left !important;
+}
+
+div#dox_entry_content *[style] {
+  height: auto !important;
+  width: auto !important;
+  background-color: transparent !important;
+}
+
+div#dox_entry_content div,
+div#dox_entry_content span,
+div#dox_entry_content a,
+div#dox_entry_content table,
+div#dox_entry_content td,
+div#dox_entry_content p,
+div#dox_entry_content li {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0;
+  margin: 0;
+}
+
+div#dox_entry_content {
+  background-color: transparent !important;
+}
+
+div#dox_entry_content a,
+div#dox_entry_content a:link,
+div#dox_entry_content a:active,
+div#dox_entry_content a:visited {
+  color: #363636 !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted #CCC !important;
+}
+
+div#dox_entry_content a:hover {
+  text-decoration: none !important;
+}
+
+div#dox_entry_content p,
+div#dox_entry_content table,
+div#dox_entry_content ul,
+div#dox_entry_content ol {
+  margin: 1em 0 !important;
+}
+
+div#dox_entry_content img {
+  padding: 0.5em 0.5em 0.5em 0 !important;
+  max-width: 97% !important;
+  height: auto;
+  float: left !important;
+}
+
+div#dox_entry_content table {
+  max-width: 95% !important;
+}
